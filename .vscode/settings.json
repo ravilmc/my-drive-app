@@ -1,0 +1,22 @@
+{
+  "files.exclude": {
+    "**/.eslintrc.json": true,
+    "**/*.spec.ts": true,
+    "**/*-e2e/": true,
+    "**/.gitkeep": true,
+    "**/jest.*": true,
+    // "**/project.json": true,
+    "**/assets/": true,
+    "**/environments/": true,
+    "**/.editorconfig": true,
+    "**/.prettier*": true,
+    "**/babel*": true,
+    "**/tsconfig*": true,
+    "**/workspace.json": true,
+    "**/.gitignore": true,
+    "**/dist/": true,
+    "**/tools/": true,
+    "**/.next/": true,
+    "**/specs/": true
+  }
+}
